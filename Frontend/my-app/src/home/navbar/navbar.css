@@ -1,0 +1,32 @@
+.navbar-base-div {
+    display: flex;
+    flex-direction: row;
+    height: 5%;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.home-icon-div {
+    height: 100%;
+    width: 5vh;
+    background-color: #6F52ED;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+.sign-out {
+    width: 1.5vw;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.logo {
+    height: 100%;
+}
